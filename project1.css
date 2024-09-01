@@ -662,7 +662,7 @@ body {
 .footer .credit {
   border-top: var(--border);
   margin-top: 2rem;
-  padding: 0 1rem;
+  padding: 10px 1rem;
   padding-top: 2.5rem;
   font-size: 2rem;
   color: var(--light-color);
